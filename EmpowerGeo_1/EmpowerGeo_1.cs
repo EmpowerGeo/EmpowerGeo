@@ -45,7 +45,7 @@ Revision History:
 
 DATE		VERSION		AUTHOR			COMMENTS
 
-11/07/2023	1.0.0.1		GGA, Skyline	Initial version
+11/07/2023	1.0.0.1		GGA, Skyline	Initial version.
 ****************************************************************************
 */
 
